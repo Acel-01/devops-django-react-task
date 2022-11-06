@@ -1,3 +1,6 @@
+## ip address to test with - http://3.88.225.27/
+
+## 
 # devops-django-react-task
 
 ## Backend development workflow
